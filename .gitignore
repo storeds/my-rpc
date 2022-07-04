@@ -1,0 +1,15 @@
+# Default ignored files
+/.idea/workspace.xml
+/.idea/*
+*/target/*
+My-Rpc.iml
+client/src/main/resources/
+client/src/test/
+rpc-api/src/main/resources/
+rpc-api/src/test/
+rpc-common/src/main/resources/
+rpc-common/src/test/
+rpc-core/src/main/resources/
+rpc-core/src/test/
+service/src/main/resources/
+service/src/test/
